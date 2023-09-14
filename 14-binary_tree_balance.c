@@ -1,5 +1,5 @@
 #include "binary_trees.h"
-
+#include "9-binary_tree_height.c"
 /**
  * binary_tree_balance - checks the balance of a tree
  * @tree: binary tree
