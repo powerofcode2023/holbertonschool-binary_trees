@@ -1,5 +1,8 @@
-C - Binary Tree
+![BINARY TREES](https://github.com/powerofcode2023/holbertonschool-binary_trees/assets/135613629/30329313-61ac-4e76-86e2-e4c567967dd5)
 
+
+
+# C - Binary Tree
 
 ## Description
 
@@ -57,4 +60,4 @@ typedef struct binary_tree_s heap_t;
 ## Authors:
 
 #### [Mokhtar IDOUDI](https://github.com/idoudi2020/)
-#### [Abdelkader AOUAR](https://github.com/powerofcode2023/)s
+#### [Abdelkader AOUAR](https://github.com/powerofcode2023/)
