@@ -56,9 +56,7 @@ typedef struct binary_tree_s avl_t;
 typedef struct binary_tree_s heap_t;
 ```
 
-```bash
-Files
-```
+## Files
 
 Here's a brief description of each file:
 
